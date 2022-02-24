@@ -1,0 +1,4 @@
+[core]
+    remote = s3-repo
+['remote "s3-repo"']
+    url = s3://seokbin-dvc
